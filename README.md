@@ -7,4 +7,4 @@ iii)Random Forest                         48%<br/>
 iv)Linear Discriminant Analysis           43%<br/>
 v)Multinomial Log-linear model            53%<br/>**
 
-**For more details read the juniper notebook for each algorithm.**
+**For more details read the jupyter notebook for each algorithm.**
